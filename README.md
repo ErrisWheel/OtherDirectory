@@ -1,0 +1,2 @@
+# OtherDirectory
+for the lols
